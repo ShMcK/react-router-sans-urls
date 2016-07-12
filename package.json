@@ -1,0 +1,23 @@
+{
+  "name": "react-router-sans-urls",
+  "version": "0.1.0",
+  "description": "React router without url support",
+  "keywords": [
+    "react",
+    "react-router"
+  ],
+  "homepage": "https://github.com/shmck/react-router-sans-urls#readme",
+  "bugs": {
+    "url": "https://github.com/shmck/react-router-sans-urls/issues"
+  },
+  "license": "ISC",
+  "author": "Shawn McKay <shawn.j.mckay@gmail.com>",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmck/react-router-sans-urls.git"
+  },
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0"
+  }
+}
